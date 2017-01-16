@@ -1,6 +1,6 @@
 """This is for practicing Linear Algebra"""
 """It is also for practicing using Git"""
-
+"""This is for practicing commits"""
 
 from math import sqrt, acos, pi, degrees
 from decimal import Decimal, getcontext
@@ -111,7 +111,9 @@ w = Vector([0,0])
 print (v.is_parallel(w))
 print (v.is_ortho(w))
 
+"""
 
+"""
 
 
 """
